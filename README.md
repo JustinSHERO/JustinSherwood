@@ -18,12 +18,6 @@ Machinist calculator app built for real-world shop use.
 - Built around speed, clarity, and usability
 - Designed from direct manufacturing experience
 
-### Video Compressor Pro
-Desktop utility app for compressing large video files.
-
-- Simple drag-and-drop workflow
-- Built for creators and business users
-- Focused on reducing file size while keeping usability simple
 
 ### File Converter Pro
 Desktop file conversion app designed for fast everyday use.
